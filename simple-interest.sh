@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# <your Github username>
+# PJAY-OPS
 
 # Input:
 # p, principal amount
